@@ -1,5 +1,7 @@
-### Hi there 👋
- I'm currently a third-year computer science student.
+### Hello there 👋
+I'm now a third-year computer science student.
+I find technology fascinating because of the seemingly endless possibilities it offers for ingenuity and problem-solving.
+I entered the computer science department because of this interest, and I'm continually looking for new possibilities to advance in this fascinating field.
 
 <!--
 **ifaris25/ifaris25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
